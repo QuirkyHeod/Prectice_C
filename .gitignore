@@ -1,0 +1,28 @@
+# Visual Studio 캐시 및 사용자별 설정 파일
+.vs/
+*.suo
+*.user
+
+# 빌드 결과물 (Debug, Release 폴더 등)
+[Bb
+]in/
+[Dd
+]ebug/
+[Oo
+]bj/
+[Rr
+]elease/
+x64/
+Win32/
+
+# 실행 파일 및 라이브러리 파일
+*.exe
+*.pdb
+*.ilk
+*.lib
+*.dll
+
+# 기타 임시 파일 및 로그
+*.log
+*.tlog
+*.ipch
